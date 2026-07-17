@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=750&lines=DevSecOps+Engineer;Cloud+%26+Container+Orchestration;CI%2FCD+Automation;Shift-Left+Security+Advocate)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulabh-sharma03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulabh-sharma)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulabhsharma.devops@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Sulabh-Sharma&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/Sulabh-Sharma)
 
@@ -157,10 +157,10 @@ open_to:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sulabh-Sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Sulabh-Sharma)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sulabh-Sharma&theme=tokyonight&hide_border=true)](https://github.com/Sulabh-Sharma)
+[![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Sulabh-Sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Sulabh-Sharma)
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=Sulabh-Sharma&theme=tokyonight&hide_border=true)](https://github.com/Sulabh-Sharma)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sulabh-Sharma&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Sulabh-Sharma)
+[![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sulabh-Sharma&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Sulabh-Sharma)
 
 </div>
 
@@ -180,7 +180,7 @@ open_to:
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sulabh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulabh-sharma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sulabh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulabh-sharma03)
 [![Email](https://img.shields.io/badge/Email-sulabhsharma.devops%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulabhsharma.devops@gmail.com)
 
 ### ⭐ Thanks for visiting my GitHub profile.
