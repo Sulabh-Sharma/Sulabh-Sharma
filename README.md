@@ -1,10 +1,14 @@
-# Hi, I'm Sulabh Sharma 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=200&section=header&text=Sulabh%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevSecOps%20Engineer%20%7C%20Cloud%20%26%20Container%20Orchestration%20%7C%20CI%2FCD%20Automation&descAlignY=58&descSize=18" width="100%" alt="header banner"/>
 
-### DevSecOps Engineer | Cloud & Container Orchestration | CI/CD Automation
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulabh-sharma)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=0EA5E9&center=true&vCenter=true&width=750&lines=DevSecOps+Engineer;Cloud+%26+Container+Orchestration;CI%2FCD+Automation;Shift-Left+Security+Advocate)](https://git.io/typing-svg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulabh-sharma03)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulabhsharma.devops@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=sulabhsharma&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/sulabhsharma)
+
+</div>
 
 ---
 
@@ -149,11 +153,38 @@ open_to:
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulabhsharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/sulabhsharma)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sulabhsharma&theme=tokyonight&hide_border=true)](https://github.com/sulabhsharma)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulabhsharma&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/sulabhsharma)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sulabhsharma/sulabhsharma/output/github-contribution-grid-snake-dark.svg" width="100%" alt="animated contribution snake"/>
+
+</div>
+
+> This animation regenerates itself from your daily contributions. It needs a one-time GitHub Actions setup — steps below.
+
+---
+
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sulabh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulabh-sharma03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sulabh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulabh-sharma)
 [![Email](https://img.shields.io/badge/Email-sulabhsharma.devops%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulabhsharma.devops@gmail.com)
 
 ### ⭐ Thanks for visiting my GitHub profile.
 
 *Automating secure cloud infrastructure so teams can ship faster, safer, and with confidence.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:0EA5E9&height=120&section=footer" width="100%" alt="footer banner"/>
