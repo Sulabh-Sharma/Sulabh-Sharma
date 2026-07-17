@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulabh-sharma03)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulabhsharma.devops@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=sulabhsharma&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/sulabhsharma)
+[![Profile Views](https://komarev.com/ghpvc/?username=Sulabh-Sharma&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/Sulabh-Sharma)
 
 </div>
 
@@ -157,10 +157,10 @@ open_to:
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulabhsharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/sulabhsharma)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sulabhsharma&theme=tokyonight&hide_border=true)](https://github.com/sulabhsharma)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sulabh-Sharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Sulabh-Sharma)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sulabh-Sharma&theme=tokyonight&hide_border=true)](https://github.com/Sulabh-Sharma)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulabhsharma&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/sulabhsharma)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sulabh-Sharma&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Sulabh-Sharma)
 
 </div>
 
@@ -170,7 +170,7 @@ open_to:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sulabhsharma/sulabhsharma/output/github-contribution-grid-snake-dark.svg" width="100%" alt="animated contribution snake"/>
+<img src="https://raw.githubusercontent.com/Sulabh-Sharma/Sulabh-Sharma/output/github-contribution-grid-snake-dark.svg" width="100%" alt="animated contribution snake"/>
 
 </div>
 
