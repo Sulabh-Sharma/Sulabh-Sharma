@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=200&section=header&text=Sulabh%20Sharma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevSecOps%20Engineer%20%7C%20Cloud%20%26%20Container%20Orchestration%20%7C%20CI%2FCD%20Automation&descAlignY=58&descSize=18" width="100%" alt="header banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:0F172A&height=200&section=header&text=SULABH%20SHARMA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="header banner"/>
 
 <div align="center">
 
