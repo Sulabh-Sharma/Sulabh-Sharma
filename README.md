@@ -174,8 +174,6 @@ open_to:
 
 </div>
 
-> This animation regenerates itself from your daily contributions. It needs a one-time GitHub Actions setup — steps below.
-
 ---
 
 ## 🤝 Let's Connect
