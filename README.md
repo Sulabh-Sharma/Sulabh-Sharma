@@ -169,8 +169,7 @@ open_to:
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="animated contribution snake"/>
+<img src="https://raw.githubusercontent.com/Sulabh-Sharma/Snake-Gif/output/github-contribution-grid-snake-dark.svg" width="100%" alt="animated contribution snake"/>
 
 </div>
 
