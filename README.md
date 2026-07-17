@@ -172,6 +172,8 @@ open_to:
 
 <img src="https://raw.githubusercontent.com/Sulabh-Sharma/Sulabh-Sharma/output/github-contribution-grid-snake-dark.svg" width="100%" alt="animated contribution snake"/>
 
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="animated contribution snake"/>
+
 </div>
 
 > This animation regenerates itself from your daily contributions. It needs a one-time GitHub Actions setup — steps below.
