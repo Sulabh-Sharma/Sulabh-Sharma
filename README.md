@@ -178,6 +178,7 @@ open_to:
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sulabh%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulabh-sharma03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sulabh-sharma03)
 [![Email](https://img.shields.io/badge/Email-sulabhsharma.devops%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sulabhsharma.devops@gmail.com)
 
 ### ⭐ Thanks for visiting my GitHub profile.
